@@ -1,9 +1,9 @@
 IBM-Project-37290-1660303167
 
 
-Project Title: University Admit Eligibility Predictor
+    Project Title: University Admit Eligibility Predictor
 
-Project Domain: Applied Data Science
+    Project Domain: Applied Data Science
 
 
 Team Members:
